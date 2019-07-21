@@ -10,6 +10,8 @@ html{
   line-height: 1.8;
 }
 .ArticleCopy{
+  position: relative;
+  top: 30px;
   font-family: "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
   width: 80%;
   margin:0 auto;
